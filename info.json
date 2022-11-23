@@ -1,1 +1,33 @@
+{"name":"DNAVerse",
+"tokenSymbol":null,
+"DaoOS":"Snapshot",
+"address":null,
+"description":"First NFT collection individually customized with real DNA. Scientific community, DAO and metaverse oriented services.",
+"whitePaperLink":"https://dnaverse.gitbook.io/dnaverse-whitepaper/",
+"Gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/BBZI1SH.png",
+       "source": "image",
+       "link": "https://www.youtube.com/watch?v=0dZFmlys_Gw"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": " https://i.imgur.com/8jqmdr2.pnghttps://i.imgur.com/8jqmdr2.png", 
+       "source": "image",
+       "link": " https://www.youtube.com/shorts/w2CEvQMLA8o"}
+],
+"deleted":false,
+"primaryColor":"#ec008c",
+"twitterHandle":"Dnaverse_io",
+"coingeckoId":null,
+"snapshotId":null,
+"logo":"https://dnaverse.io/wp-content/uploads/2022/02/logo-v5_250px.gif",
+"telegramLink":null,
+"discordLink":null,
+"website":"https://dnaverse.io/",
+"tokenDescription":null,
+"tokenTradeLink":null,
 
+"tags":["Decentralized biotech","Biopharma", "NFTs", "Science DeFi"]
+  
+}
